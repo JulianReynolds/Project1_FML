@@ -1,6 +1,9 @@
 .DS_Store
 .venv/
-
+.claude
+output
+gkx-neural-network-replication.ipynb
+test_hybrid.ipynb
 data/*
 !data/readme.txt
 !data/PredictorData.xlsx
