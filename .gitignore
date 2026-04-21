@@ -1,6 +1,8 @@
 .DS_Store
 .venv/
 .claude
+credentials.json
+.google_drive_token.pickle
 output
 gkx-neural-network-replication.ipynb
 test_hybrid.ipynb
